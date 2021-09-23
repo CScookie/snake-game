@@ -1,5 +1,4 @@
-# snake-game
----
+
 # Getting-Started
 - Clone the repo
 - CD into the snake-game
@@ -7,6 +6,7 @@
 - run `python snake.py`
 - Enjoy
 
+---
 
 <p align = "left">
     <img src="snakegame.PNG" alt="snake game image">
